@@ -1,0 +1,39 @@
+2024-01-09 19:27:45.686 [info] 
+
+
+
+
+2024-01-09 19:27:45.686 [info] Extension host agent started.
+2024-01-09 19:27:45.686 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-01-09 19:27:45.703 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-01-09 19:27:45.924 [info] [127.0.0.1][fa932165][ManagementConnection] New connection established.
+2024-01-09 19:27:46.224 [info] [127.0.0.1][b550f0c4][ExtensionHostConnection] New connection established.
+2024-01-09 19:27:46.228 [info] [127.0.0.1][b550f0c4][ExtensionHostConnection] <551> Launched Extension Host Process.
+2024-01-09 19:39:38.062 [info] Getting Manifest... ritwickdey.liveserver
+2024-01-09 19:39:38.263 [info] Installing extension: ritwickdey.liveserver
+2024-01-09 19:39:39.632 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-01-09 19:39:42.380 [info] Extracted extension to file:///root/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-01-09 19:39:42.391 [info] Renamed to /root/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-01-09 19:39:42.393 [info] Extracting extension completed. ritwickdey.liveserver
+2024-01-09 19:39:42.399 [info] Extension installed successfully: ritwickdey.liveserver
+2024-01-09 19:40:19.549 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:19.563 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2024-01-09 19:40:19.804 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:26.335 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:26.593 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:30.116 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:30.365 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:32.820 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:33.055 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:40:43.860 [info] Getting Manifest... ritwickdey.liveserver
+2024-01-09 19:40:44.074 [info] Installing extension: ritwickdey.liveserver
+2024-01-09 19:40:44.436 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2024-01-09 19:40:44.438 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2024-01-09 19:40:44.446 [info] Extension installed successfully: ritwickdey.liveserver
+2024-01-09 19:41:05.619 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:41:05.632 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2024-01-09 19:41:05.802 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:41:09.833 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:41:10.076 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///root/.vscode-server/extensions/extensions.json
+2024-01-09 19:41:34.095 [info] [127.0.0.1][fa932165][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-09 19:41:34.144 [info] [127.0.0.1][b550f0c4][ExtensionHostConnection] <551> Extension Host Process exited with code: 0, signal: null.
